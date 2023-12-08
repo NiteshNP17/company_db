@@ -1,3 +1,3 @@
 # Company Database
 
-A Company Database project with ER Diagram
+A Company Database project with ER Diagram.
